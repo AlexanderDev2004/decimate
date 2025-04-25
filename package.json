@@ -1,27 +1,18 @@
 {
-  "name": "ahp-calculator",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AlexanderDev2004/ahp-calculator.git"
+  "name": "decimate",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/AlexanderDev2004/ahp-calculator/issues"
-  },
-  "homepage": "https://github.com/AlexanderDev2004/ahp-calculator#readme",
   "dependencies": {
-    "@tailwindcss/cli": "^4.0.14",
-    "@tailwindcss/postcss": "^4.0.14",
-    "htmx.org": "^1.9.12",
-    "postcss": "^8.5.3",
-    "prettier": "^3.5.3",
-    "prettier-plugin-tailwindcss": "^0.6.11",
-    "tailwindcss": "^4.0.14"
+    "@astrojs/mdx": "^4.2.5",
+    "@tailwindcss/typography": "^0.5.16",
+    "@tailwindcss/vite": "^4.1.4",
+    "astro": "^5.7.5",
+    "tailwindcss": "^4.1.4"
   }
 }

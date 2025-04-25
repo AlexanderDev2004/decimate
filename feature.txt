@@ -1,5 +1,0 @@
-wpm
-wsm
-ahp
-edas
-electre
