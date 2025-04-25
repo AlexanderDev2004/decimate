@@ -34,7 +34,7 @@ Dengan kehadiran **Decimate**, diharapkan dapat menyederhanakan dan mempercepat 
 - [ ] Task 4: Design UI for result visualization
 - [ ] Task 5: Optimize performance for large datasets
 
-
+## 
 
 **Ayo Bergabung dan Berkontribusi!**
 
