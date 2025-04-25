@@ -26,15 +26,15 @@ Dengan kehadiran **Decimate**, diharapkan dapat menyederhanakan dan mempercepat 
 
 <br />
 
-## TO DO :
+<!-- ## TO DO :
 
 - [ ] Task 1: Implement AHP Calculator
 - [ ] Task 2: Write documentation for WPM method
 - [ ] Task 3: Add unit tests for decision algorithms
-- [ ] Task 4: Design UI for result visualization
+- [x] Task 4: Design UI for result visualization
 - [x] Task 5: Optimize performance for large datasets
 
-## 
+##  -->
 
 **Ayo Bergabung dan Berkontribusi!**
 
