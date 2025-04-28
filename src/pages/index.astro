@@ -3,12 +3,16 @@ import Main from "@/layouts/main.astro";
 import AHPCalculator from '../components/AHPCalculator';
 import WSMCalculator from '../components/WSMCalculator';
 import WPMCalculator from '../components/WPMCalculator';
+import ELECTRECalculator from '../components/ELECTRECalculator'
+import Hero from '../components/home/hero.astro';
+
 ---
 
 <Main title="Beranda" description="">
-
+    <Hero />
     <h1>Data Dummy :</h1>
     <AHPCalculator />
     <WSMCalculator />
     <WPMCalculator />
+    <ELECTRECalculator />
 </Main>

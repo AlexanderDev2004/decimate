@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 const AHPCalculator = () => {
   const [matrix, setMatrix] = useState<number[][]>([
-    [1, 2, 4],
+    [4, 2, 4],
     [0.5, 1, 3],
     [0.25, 0.33, 1],
   ]);
