@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-
+import "./globals.css";
 export const metadata: Metadata = {
   title: "Home | Decimate",
   description: "",
@@ -18,5 +18,6 @@ export default function Home() {
     <main>
       <h1>Home</h1>
     </main>
+    
   );
 }
